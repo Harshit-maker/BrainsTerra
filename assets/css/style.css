@@ -786,7 +786,7 @@ section {
 .portfolio .portfolio-wrap img {
   /*width: 320px;*/
   height: 250px;
-  /*object-fit: contain;*/
+  object-fit: cover;
   /*object-position: 20% 70%;*/
   transition: all ease-in-out 0.3s;
 }
