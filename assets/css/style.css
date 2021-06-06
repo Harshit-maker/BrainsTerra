@@ -784,7 +784,7 @@ section {
 }
 
 .portfolio .portfolio-wrap img {
-  /*width: 320px;*/
+  width: 100%;
   height: 250px;
   object-fit: cover;
   /*object-position: 20% 70%;*/
